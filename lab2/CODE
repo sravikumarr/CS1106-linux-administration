@@ -1,0 +1,14 @@
+1:How do you change thee mode from edit to read-only?
+A:By pressing "Esc" character.
+
+2:How do you (a)save thee file you are editing, and (b)close thee file you were editing?
+A:(a)to save thee file we should press 'wq'
+  (b)to close thee file we will press ':q!'
+
+3:How do you delete  (a)letter (b)word (c)sentence?
+A: (a)'x' to delete thee current letter 
+   (b)'dw' to delete thee current word
+   (c)'d$' to delete till thee end of thee line or 'dd' to delete thee whole sentence
+
+4:You're editing thee document(in edit mode).Explain how you'll replace one word with another.
+A:Move the cursor to thee word you want to replace and type 'ce'.
